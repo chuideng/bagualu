@@ -1,0 +1,4 @@
+# bagualu
+一个自定的View库，旨在提高Android应用程序的体验。
+前期只加入了关于ScrollView，ListView，GridView，RecycleView的越界会弹效果的控件，OverBoundScrollView专用与ScrollView的越界回弹，
+OverBoundScrollView适用于ScrollView，ListView，GridView，RecycleView的越界回弹。
